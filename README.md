@@ -5,3 +5,6 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/ishuah_) | [LinkedIn](https://www.linkedin.com/in/ishuah/) 
 - 😄 Pronouns: He/Him
 
+![Ish's github stats](https://github-readme-stats.vercel.app/api?username=ishuah&show_icons=true&theme=dracula)
+
+![Ish's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ishuah&count_private=true&layout=compact&show_icons=true&theme=dracula)
